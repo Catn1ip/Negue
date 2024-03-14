@@ -1,0 +1,32 @@
+body
+{
+background-color:antiquewhite
+height: 100px;
+}
+
+nav
+{
+    background-color:antiquewhite
+    display: inline-flex;
+    height: 500px;
+    width: 200px;
+}
+
+nav li
+{
+    display: flex;
+}
+
+nav li a
+{
+    color:black
+    text-decoration: none;
+    margin: 0;
+    padding: 10px;
+    font-size: 20px;
+
+}
+nav li a:hover
+{
+    background-color: antiquewhite;
+}
